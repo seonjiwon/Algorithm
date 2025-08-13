@@ -3,7 +3,7 @@ package baekjoon.bfs;
 import java.io.*;
 import java.util.*;
 
-public class Pro2206 {
+public class Pro2206BfsTripleArray {
 
     static int N, M;
     static int[] dx = {-1, 1, 0, 0};
