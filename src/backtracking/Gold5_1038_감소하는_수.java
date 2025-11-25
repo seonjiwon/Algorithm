@@ -3,7 +3,7 @@ package backtracking;
 import java.util.*;
 import java.io.*;
 
-public class Pro1038 {
+public class Gold5_1038_감소하는_수 {
     private static int N;
     private static List<Long> list;
 
